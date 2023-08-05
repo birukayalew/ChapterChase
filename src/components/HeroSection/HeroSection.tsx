@@ -9,17 +9,12 @@ const HeroSection = () => {
                     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900 dark:text-white">
                             Get Your Favourite Book
-                            <br className="hidden lg:inline-block" />
-                            From Us
+                            
                         </h1>
                         <p className="mb-8 leading-relaxed">
-                            Welcome to Book Finder, the ultimate destination for
-                            every book lover and bibliophile. Step into a
-                            boundless universe of literature, where the pages of
-                            countless stories come to life, and the magic of
-                            reading knows no bounds. Book Finder is not just a
-                            website; it's a gateway to explore, discover, and
-                            cherish the world of books.
+                            Welcome to Chapter Chase, a haven for book enthusiasts and lovers of literature.
+                            Immerse yourself in an infinite realm of stories where the enchantment of reading transcends limits.
+                            Chapter Chase isn't just a site; it's a portal to delve into, uncover, and embrace the diverse world of books.
                         </p>
                         <div className="flex justify-center">
                             <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">

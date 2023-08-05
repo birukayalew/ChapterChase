@@ -21,7 +21,7 @@ const Contact = () => {
                                 ADDRESS
                             </h2>
                             <p className="mt-1">
-                                Mirpur Section 15, Dhaka, Bangladesh.
+                                Addis Ababa, Ethiopia
                             </p>
                         </div>
                         <div className="px-6 mt-4 lg:w-1/2 lg:mt-0">
@@ -29,12 +29,12 @@ const Contact = () => {
                                 EMAIL
                             </h2>
                             <a className="leading-relaxed text-indigo-500">
-                                razikuljoni@gmail.com
+                                se.biruk.ayalew@gmail.com
                             </a>
                             <h2 className="mt-4 text-xs font-semibold tracking-widest text-gray-900 title-font">
                                 PHONE
                             </h2>
-                            <p className="leading-relaxed">01623208660</p>
+                            <p className="leading-relaxed">+251953266119</p>
                         </div>
                     </div>
                 </div>

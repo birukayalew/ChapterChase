@@ -113,14 +113,14 @@ const Footer = () => {
                 <div className="bg-gray-100 dark:bg-slate-800 dark:text-white border-t-2">
                     <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
                         <p className="text-gray-500 text-sm text-center sm:text-left dark:text-white dark:hover:text-gray-300">
-                            © 2023 Book Finder —
+                            © 2023 Chapter Chase —
                             <a
-                                href="https://razikul-joni69.netlify.app/"
+                                href="https://www.linkedin.com/in/biruk-tadesse-1024321ba/"
                                 rel="noopener noreferrer"
                                 className="text-gray-600 ml-1 dark:text-white dark:hover:text-gray-300"
                                 target="_blank"
                             >
-                                @razikul.joni69
+                                @birukayalew
                             </a>
                         </p>
                         <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">

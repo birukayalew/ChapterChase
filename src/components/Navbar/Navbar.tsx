@@ -75,7 +75,7 @@ const Navbar = () => {
                                 loading="lazy"
                             />
                             <span className="font-bold text-xl dark:text-white">
-                                Book Finder
+                                Chapter Chase
                             </span>
                         </Link>
                         <ul className="hidden items-center mx-auto gap-6 lg:flex">
